@@ -1,0 +1,7 @@
+Project:Easy Paisa
+
+UseCase:Send Money from one user to another user
+        1.take user cnic
+	2.take user mobile number
+	3.take amount to send
+	4.generate pin code 
